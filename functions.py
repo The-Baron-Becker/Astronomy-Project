@@ -36,6 +36,4 @@ def find_stars(file):
 
         c = plt.Circle((x, y), z+5, color = 'lime', linewidth = 1, fill = False)
 
-
-        
         ax.add_patch(c)
