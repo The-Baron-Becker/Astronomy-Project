@@ -9,6 +9,7 @@ dash_html_components==2.0.0
 pandas==1.2.3
 math
 glob
+scikit-image
 skimage.io
 matplotlib
 gunicorn
