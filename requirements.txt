@@ -8,7 +8,6 @@ numpy==1.18.5
 dash_html_components==2.0.0
 pandas==1.2.3
 scikit-image
-skimage.io
 matplotlib
 gunicorn
 requests
